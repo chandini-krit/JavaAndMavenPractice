@@ -1,0 +1,75 @@
+[INFO ] 2023-07-05 18:40:00.646 [main] Log4jDemo - this is logger info message
+[ERROR] 2023-07-05 18:40:00.656 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:40:00.658 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:40:00.659 [main] Log4jDemo - warn msg
+[INFO ] 2023-07-05 18:47:12.647 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:47:12.651 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:47:12.651 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:47:12.651 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:47:12.651 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:47:12.651 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:47:49.952 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:47:49.959 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:47:49.959 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:47:49.959 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:47:49.960 [main] Log4jDemo - warn msg
+[INFO ] 2023-07-05 18:48:36.619 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:48:36.623 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:48:36.623 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:48:36.624 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:48:36.628 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:48:36.628 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:52:03.134 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:52:03.138 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:52:03.138 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:52:03.138 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:52:03.139 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:52:03.139 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:53:13.325 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:53:13.329 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:53:13.329 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:53:13.330 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:53:13.330 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:53:13.330 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:54:56.138 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:54:56.142 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:54:56.143 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:54:56.143 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:54:56.143 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:54:56.143 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:57:20.038 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:57:20.041 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:57:20.042 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:57:20.042 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:57:20.042 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:57:20.042 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 18:58:16.491 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 18:58:16.495 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 18:58:16.495 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 18:58:16.495 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 18:58:16.495 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 18:58:16.496 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 19:00:19.137 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 19:00:19.141 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 19:00:19.141 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 19:00:19.141 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 19:00:19.141 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 19:00:19.141 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 19:01:10.544 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 19:01:10.548 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 19:01:10.548 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 19:01:10.548 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 19:01:10.549 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 19:01:10.549 [main] Log4jDemo - trace msg
+[INFO ] 2023-07-05 19:01:29.081 [main] Log4jDemo - this is logger info message
+[DEBUG] 2023-07-05 19:01:29.087 [main] Log4jDemo - this is logger debug message
+[ERROR] 2023-07-05 19:01:29.087 [main] Log4jDemo - this is logger error message
+[FATAL] 2023-07-05 19:01:29.087 [main] Log4jDemo - this is logger fatal message
+[WARN ] 2023-07-05 19:01:29.088 [main] Log4jDemo - warn msg
+[TRACE] 2023-07-05 19:01:29.088 [main] Log4jDemo - trace msg
+this is logger info message
+this is logger debug message
+this is logger error message
+this is logger fatal message
+warn msg
+trace msg

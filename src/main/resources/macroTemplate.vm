@@ -1,0 +1,7 @@
+#macro(iterator $seasonArray)
+    #foreach($val in $seasonArray)
+        season is $val
+    #end
+#end
+
+#iterator($seasonArray)

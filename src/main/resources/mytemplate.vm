@@ -1,0 +1,16 @@
+#if(${key1} == "good morning")
+    #set($key1 = $key2)
+    the variable #[$key1]# specifies morning
+#end
+
+#if($key2 == "good morning")
+    the variable #[$key2]# specifies morning
+#else
+    the variable #[$key2]# specifies it's not a morning
+#end
+
+#if($key1 == $key2)
+    both the variables are same
+#end
+
+#evaluate($key3)
